@@ -5,11 +5,9 @@ Home: https://github.com/executablebooks/sphinx-togglebutton
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sphinx-togglebutton-feedstock/blob/master/LICENSE.txt)
 
 Summary: Add a toggle button to items on a page.
-
-
 
 Current build status
 ====================
@@ -117,4 +115,5 @@ Feedstock Maintainers
 =====================
 
 * [@anirrudh](https://github.com/anirrudh/)
+* [@chrisjsewell](https://github.com/chrisjsewell/)
 
