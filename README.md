@@ -5,7 +5,7 @@ Home: https://github.com/executablebooks/sphinx-togglebutton
 
 Package license: MIT
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sphinx-togglebutton-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sphinx-togglebutton-feedstock/blob/main/LICENSE.txt)
 
 Summary: Add a toggle button to items on a page.
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=10568&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sphinx-togglebutton-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=10568&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sphinx-togglebutton-feedstock?branchName=main">
       </a>
     </td>
   </tr>
