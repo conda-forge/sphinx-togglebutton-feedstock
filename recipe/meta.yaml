@@ -1,5 +1,5 @@
 {% set name = "sphinx-togglebutton" %}
-{% set version = "0.3.2" %}
+{% set version = "0.4.4" %}
 
 
 package:
@@ -7,8 +7,8 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sphinx-togglebutton-{{ version }}.tar.gz
-  sha256: ab0c8b366427b01e4c89802d5d078472c427fa6e9d12d521c34fa0442559dc7a
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
+  sha256: 04c332692fd5f5363ad02a001e693369767d6c1f0e58279770a2aeb571b472a1
 
 build:
   number: 0
